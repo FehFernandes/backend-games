@@ -19,6 +19,7 @@ app.use(
       process.env.FRONTEND_URL || "http://localhost:5173",
       "http://localhost:5173",
       "http://localhost:3001",
+      "https://preview-games-management-system-kzmgjjuf90clv8lzg9je.vusercontent.net/",
     ],
     credentials: true,
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
